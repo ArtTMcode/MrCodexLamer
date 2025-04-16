@@ -1,0 +1,11 @@
+{
+    "projectName": "MrCodexLamer",
+    "projectDescription": "Пентест утилита",
+    "projectAuthor": "MrCodex",
+    "versions" : [
+        {
+            "version": "0.0.1",
+            "discription": "Инициализвация проекта"
+        }
+    ]
+}
